@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215805860185",
+    "project_id": "estate-portal-e31e8",
+    "storage_bucket": "estate-portal-e31e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215805860185:android:ce660ef4ae5b47c9031448",
+        "android_client_info": {
+          "package_name": "com.example.estate_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215805860185-5ascgi7720ddgbr253fvr4i726pnca53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpJRODXToTbjhwYufgQ3L2GNOaLtf7_3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215805860185-5ascgi7720ddgbr253fvr4i726pnca53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
